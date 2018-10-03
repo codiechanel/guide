@@ -12,4 +12,5 @@
 * [games](notable-links/games.md)
 * [source codes](notable-links/source-codes.md)
 * [web devt](notable-links/web-devt.md)
+* [tutorials](notable-links/tutorials.md)
 
